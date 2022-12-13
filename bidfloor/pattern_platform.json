@@ -1,0 +1,94 @@
+{
+    "currency": "USD",
+    "floorProvider": "PM",
+    "floorsSchemaVersion": 2,
+    "modelGroups":
+    [
+        {
+            "modelVersion": "pattern_platform_0",
+            "modelWeight": 100,
+            "schema":
+            {
+                "fields":
+                [
+                    "domain",
+                    "platform_id"
+                ]
+            },
+            "values":
+            {
+                "ebay.com|1": 10,
+                "ebay.com|2": 11
+            }
+        },
+        {
+            "modelVersion": "M_1",
+            "modelWeight": 0,
+            "schema":
+            {
+                "fields":
+                [
+                    "domain",
+                    "platform_id"
+                ]
+            },
+            "values":
+            {
+                "ebay.com|1": 10,
+                "ebay.com|2": 11
+            }
+        },
+        {
+            "modelVersion": "M_2",
+            "modelWeight": 0,
+            "schema":
+            {
+                "fields":
+                [
+                    "domain",
+                    "platform_id"
+                ]
+            },
+            "values":
+            {
+                "ebay.com|1": 10,
+                "ebay.com|2": 11
+            }
+        },
+        {
+            "modelVersion": "M_3",
+            "modelWeight": 0,
+            "schema":
+            {
+                "fields":
+                [
+                    "domain",
+                    "platform_id"
+                ]
+            },
+            "values":
+            {
+                "ebay.com|1": 10,
+                "ebay.com|2": 11
+            }
+        },
+        {
+            "modelVersion": "M_4",
+            "modelWeight": 0,
+            "schema":
+            {
+                "fields":
+                [
+                    "domain",
+                    "platform_id"
+                ]
+            },
+            "values":
+            {
+                "ebay.com|1": 10,
+                "ebay.com|2": 11
+            }
+        }
+    ],
+    "skipRate": 0
+}
