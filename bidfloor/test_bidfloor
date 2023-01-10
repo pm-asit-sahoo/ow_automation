@@ -1,0 +1,22 @@
+{
+  "currency": "USD",
+  "floorProvider": "PM",
+  "floorsSchemaVersion": 2,
+  "modelGroups": [
+    {
+      "modelVersion": "pattern_browser_0",
+      "modelWeight": 100,
+      "schema": {
+        "fields": [
+          "domain",
+          "browser"
+        ]
+      },
+      "values": {
+        "ebay.com|93": 12
+      },
+      "default": 9
+    }
+  ],
+  "skipRate": 0
+}
